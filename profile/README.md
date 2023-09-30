@@ -1,5 +1,15 @@
 ## 👋 Welcome to RegenTribe Github Organisation
 
+Where the magic happens
+
+## Connect with us!
+
+- [Facebook](https://www.facebook.com/regen.tribe)
+- [Instagram](https://www.instagram.com/regen.tribe)
+- [YouTube](https://www.youtube.com/@regentribe)
+- [X (Twitter)](https://twitter.com/regentribe)
+- [LinkedIn](https://www.linkedin.com/company/regentribe)
+- [Reddit](https://www.reddit.com/r/RegenerativeCommunity/)
 <!--
 
 **Here are some ideas to get you started:**
