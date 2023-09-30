@@ -1,4 +1,4 @@
-## Welcome to regentribes Github Organisation 👋
+## 👋 Welcome to RegenTribe Github Organisation
 
 <!--
 
