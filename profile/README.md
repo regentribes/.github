@@ -1,4 +1,4 @@
-🌱 Welcome to the RegenTribe Github Organisation 🌱
+# 🌱 Welcome to RegenTribe 🌱
 
 At [RegenTribe](https://regentribe.org), we're dedicated to the vision of creating and nurturing regenerative communities and neighborhoods worldwide. Our community is comprised of passionate regenerative practitioners, visionary entrepreneurs, forward-thinking investors, and impactful change-makers.
 
